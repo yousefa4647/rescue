@@ -1,0 +1,1 @@
+You dress in your guard clothes and finally find yourself in a boat headed to the island. You go into the jail and finally find the cell where he's located in. During lunch hours, you take him to the back until a guard asks you what your doing.

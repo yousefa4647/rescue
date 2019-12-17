@@ -2,4 +2,4 @@ You continue drinking the apple juice and you gain powers that tell you your fri
 
 [Do you not care and try the spoiled milk?](Spoiled.md)
 or
-Do you use your powers to teleport there and break him out?
+[Do you use your powers to teleport there and break him out?](Boat.md) 
